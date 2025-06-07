@@ -33,7 +33,7 @@ export const PROJECTS: Project[] = [
     description:
       'Revamping the personal website using the NIM template',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
-    video:'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/2025-06-07%2014-18-59.mp4',
+    video:'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/2025-06-07%2015-14-38.mp4',
     id: 'project1',
   },
     {
