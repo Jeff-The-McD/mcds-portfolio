@@ -104,7 +104,7 @@ export const BLOG_POSTS: BlogPost[] = [
   {
     title: "Customizing the template",
     description: '<Description>',
-    link: '/blog/example-mdx-metadata',
+    link: '/dev-diary/example-mdx-metadata',
     uid: 'blog-1',
   }
 ]
