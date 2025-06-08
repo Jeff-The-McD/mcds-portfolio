@@ -36,14 +36,21 @@ export const PROJECTS: Project[] = [
     video:'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/2025-06-07%2015-14-38.mp4',
     id: 'project1',
   },
-    {
+  {
     name: 'Optical Flow Template',
     description:
       'An Optical Flow project meant to be used with UAV\'s to help with object avoidance.',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
     video:'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/CAL%20POLY%20Pomona%20Optflow%20video%20showcase.mp4',
-    id: 'project1',
+    id: 'project2',
   },
+  {
+    name: 'WIP',
+    description:'Coming Soon',
+    link: '/projects',
+    video:'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/vecteezy_coming-soon-text-animation-on-black-background_31744140.mov',
+    id: 'project3',
+  }
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
