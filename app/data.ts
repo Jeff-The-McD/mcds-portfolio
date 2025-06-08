@@ -42,7 +42,7 @@ export const PROJECTS: Project[] = [
     description:
       'Revamping the personal website using the NIM template',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
-    video: 'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/2025-06-07%2015-14-38.mp4',
+    video: 'https://mcds-portfolio-assets.com/2025-06-07%2015-14-38.mp4',
     id: 'project1',
   },
   {
@@ -50,7 +50,7 @@ export const PROJECTS: Project[] = [
     description:
       'An Optical Flow project meant to be used with UAV\'s to help with object avoidance.',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
-    video: 'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/CAL%20POLY%20Pomona%20Optflow%20video%20showcase.mp4',
+    video: 'https://mcds-portfolio-assets.com/CAL%20POLY%20Pomona%20Optflow%20video%20showcase.mp4',
     id: 'project2',
   }
 ]
@@ -61,7 +61,7 @@ export const PROJECTS_EXPANDED: Project_verbose[] = [
     description:
       'Revamping the personal website using the NIM template',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
-    video: 'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/2025-06-07%2015-14-38.mp4',
+    video: 'https://mcds-portfolio-assets.com/2025-06-07%2015-14-38.mp4',
     id: 'project1'
   },
   {
@@ -69,21 +69,21 @@ export const PROJECTS_EXPANDED: Project_verbose[] = [
     description:
       'An Optical Flow project meant to be used with UAV\'s to help with object avoidance.',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
-    video: 'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/CAL%20POLY%20Pomona%20Optflow%20video%20showcase.mp4',
+    video: 'https://mcds-portfolio-assets.com/CAL%20POLY%20Pomona%20Optflow%20video%20showcase.mp4',
     id: 'project2',
   },
   {
     name: 'WIP',
     description: 'Coming Soon',
     link: '/projects',
-    video: 'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/vecteezy_coming-soon-text-animation-on-black-background_31744140.mov',
+    video: 'https://mcds-portfolio-assets.com/vecteezy_coming-soon-text-animation-on-black-background_31744140.mov',
     id: 'project3',
   },
   {
     name: 'WIP2',
     description: 'Coming Soon',
     link: '/projects',
-    video: 'https://pub-b59b329d480a4e97bdbc453fc0d8ba34.r2.dev/vecteezy_coming-soon-text-animation-on-black-background_31744140.mov',
+    video: 'https://mcds-portfolio-assets.com/vecteezy_coming-soon-text-animation-on-black-background_31744140.mov',
     id: 'project4',
   }
 
