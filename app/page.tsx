@@ -167,11 +167,10 @@ export default function Personal() {
                 </p>
               </div>
             </div>
-          ))}
-          <h1><a href='/projects/projects.tsx'>See more</a></h1>
+          ))}          
         </div>
+        <h1><a href='/projects/'>See more</a></h1>
       </motion.section>
-          
       <motion.section
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
