@@ -1,5 +1,5 @@
 export default function DevDiary(){
     return (
-        <h1>Hello</h1>
+        <h1>Under Constructions</h1>
     )
 }
