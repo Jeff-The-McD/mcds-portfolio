@@ -102,9 +102,9 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: "Customizing the template",
-    description: '<Description>',
-    link: '/blog/example-mdx-metadata',
+    title: "NIM to JM",
+    description: 'Wasn\'t that bad getting back into the swing of things.',
+    link: '/dev-diary/revamping-my-website',
     uid: 'blog-1',
   }
 ]
