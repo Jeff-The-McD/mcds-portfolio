@@ -243,6 +243,7 @@ export default function Personal() {
               </Link>
             ))}
           </AnimatedBackground>
+          <h1><a href='/dev-diary/'>See more</a></h1>
         </div>
       </motion.section>
 
