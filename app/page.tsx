@@ -167,14 +167,15 @@ export default function Personal() {
                 </p>
               </div>
             </div>
-          ))}
+          ))}          
         </div>
+        <h1><a href='/projects/'>See more</a></h1>
       </motion.section>
-
       <motion.section
         variants={VARIANTS_SECTION}
         transition={TRANSITION_SECTION}
       >
+        
         <h3 className="mb-5 text-lg font-medium">Work Experience</h3>
         <div className="flex flex-col space-y-2">
           {WORK_EXPERIENCE.map((job) => (
