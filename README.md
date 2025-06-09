@@ -1,3 +1,5 @@
+[![Picture of my website](/public/mcd-portfolio-pic.png)](https://google.com)
+
 ## About
 This personal portfolio was created from the NIM template created by Julien Nim. 
 Wanted to get revamp my portfolio page by giving it a more modern and dynamic look hence using this template along with adding an expanded page for projects and a dev diary. 
