@@ -26,6 +26,15 @@ type WorkExperience = {
 
 type BlogPost = {
   title: string
+  date: string
+  description: string
+  link: string
+  uid: string
+}
+
+type ExpandedBlogPost={
+  title:string
+  date: string
   description: string
   link: string
   uid: string
@@ -39,8 +48,7 @@ type SocialLink = {
 export const PROJECTS: Project[] = [
   {
     name: 'Personal Website revamp',
-    description:
-      'Revamping the personal website using the NIM template',
+    description:'Revamping the personal website using the NIM template',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
     video: 'https://mcds-portfolio-assets.com/2025-06-07%2015-14-38.mp4',
     id: 'project1',
@@ -56,10 +64,9 @@ export const PROJECTS: Project[] = [
 ]
 
 export const PROJECTS_EXPANDED: Project_verbose[] = [
-  {
+{
     name: 'Personal Website revamp',
-    description:
-      'Revamping the personal website using the NIM template',
+    description: 'Revamping the personal website using the NIM template',
     link: 'https://github.com/Jeff-The-McD/mcds-portfolio',
     video: 'https://mcds-portfolio-assets.com/2025-06-07%2015-14-38.mp4',
     id: 'project1'
@@ -103,6 +110,17 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 export const BLOG_POSTS: BlogPost[] = [
   {
     title: "NIM to JM",
+    date: "6/9/2025",
+    description: 'Wasn\'t that bad getting back into the swing of things.',
+    link: '/dev-diary/revamping-my-website',
+    uid: 'blog-1',
+  }
+]
+
+export const EXPANDED_BLOG_POSTS: ExpandedBlogPost[] = [
+  {
+    title: "NIM to JM",
+    date: "6/9/2025",
     description: 'Wasn\'t that bad getting back into the swing of things.',
     link: '/dev-diary/revamping-my-website',
     uid: 'blog-1',
