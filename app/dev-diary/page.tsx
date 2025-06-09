@@ -89,9 +89,4 @@ export default function DevDiary() {
 
         </motion.main>
     )
-
-    // add main .
-    // add section
-    // add div
-    // add blog post item
 }
