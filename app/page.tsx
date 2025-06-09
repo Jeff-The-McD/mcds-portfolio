@@ -137,7 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Wanting to See inside the black box
+            Wanting to See inside the black box.
           </p>
         </div>
       </motion.section>
