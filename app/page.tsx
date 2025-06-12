@@ -136,9 +136,9 @@ export default function Personal() {
         transition={TRANSITION_SECTION}
       >
         <div className="flex-1">
-          <p className="text-zinc-600 dark:text-zinc-400">
-            Wanting to See inside the black box
-          </p>
+          <h3 className="text-zinc-600 dark:text-zinc-400">
+            Piece by Piece.
+          </h3>
         </div>
       </motion.section>
 
@@ -236,6 +236,9 @@ export default function Personal() {
                   <h4 className="font-normal dark:text-zinc-100">
                     {post.title}
                   </h4>
+                  <h5 className="font-normal dark:text-zinc-100">
+                    {post.date}
+                  </h5>
                   <p className="text-zinc-500 dark:text-zinc-400">
                     {post.description}
                   </p>
@@ -243,6 +246,7 @@ export default function Personal() {
               </Link>
             ))}
           </AnimatedBackground>
+          <h1><a href='/dev-diary/'>See more</a></h1>
         </div>
       </motion.section>
 

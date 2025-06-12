@@ -39,15 +39,6 @@ const TRANSITION_SECTION = {
     duration: 0.3,
 }
 
-// need to create root component for this page.
-// following structure of personal page it consists of
-// 
-/*
-File Structure
-motion.main -->
-motion.section --> div
-*/
-
 type ProjectVideoProps = {
     src: string
 }
