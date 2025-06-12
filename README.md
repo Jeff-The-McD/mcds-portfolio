@@ -1,5 +1,5 @@
 # mcds-portfolio
-[![Picture of my website](/public/mcd-portfolio-pic.png)](https://google.com)
+[![Picture of my website](/public/mcd-portfolio-pic.png)](https://www.mcds-portfolio.dev/)
 
 ## About
 This personal portfolio was created from the NIM template created by Julien Nim. 
