@@ -109,7 +109,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: "NIM to JM - WIP",
+    title: "NIM to JM",
     date: "6/9/2025",
     description: 'Wasn\'t that bad getting back into the swing of things.',
     link: '/dev-diary/revamping-my-website',

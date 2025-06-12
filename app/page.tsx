@@ -136,9 +136,9 @@ export default function Personal() {
         transition={TRANSITION_SECTION}
       >
         <div className="flex-1">
-          <p className="text-zinc-600 dark:text-zinc-400">
-            Wanting to See inside the black box.
-          </p>
+          <h3 className="text-zinc-600 dark:text-zinc-400">
+            Piece by Piece.
+          </h3>
         </div>
       </motion.section>
 
