@@ -10,14 +10,27 @@ export function Header() {
          <h1>Jeffrey McDonald</h1>
         </Link>
         <TextEffect
-          as="p"
+          as="h2"
           preset="fade"
           per="char"
           className="text-zinc-600 dark:text-zinc-500"
           delay={0.5}
         >
           Professional Hobbyist
+          
         </TextEffect>
+        <a href="https://github.com/ibelick/nim">
+        <TextEffect
+          as="h2"
+          preset="fade"
+          per="char"
+          className="text-zinc-600 dark:text-zinc-500"
+          delay={0.5}
+        >
+        Based on NIM Template
+          
+        </TextEffect>
+        </a>
       </div>
     </header>
   )
